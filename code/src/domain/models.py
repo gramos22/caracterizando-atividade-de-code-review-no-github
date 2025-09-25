@@ -27,5 +27,9 @@ class PullRequest:
     additions: int
     deletions: int
     changed_files: int
+    description_length: int
+    participants_count: int
+    comments_count: int
+    review_duration_seconds: int
     reviews: List[Review]
     url: str
