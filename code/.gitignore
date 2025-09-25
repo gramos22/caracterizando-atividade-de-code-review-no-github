@@ -1,0 +1,71 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Configuração local e variáveis de ambiente
+.env
+.env.*
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Cache de pacotes e builds
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Arquivos do sistema/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de testes/coverage
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+
+# Dados gerados pela aplicação
+*.json
+*.csv
+*.parquet
+*.sqlite
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Relatórios temporários
+*.pdf
+*.docx
+*.rtf
+*.odt
+*.odp
