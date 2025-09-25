@@ -1,0 +1,512 @@
+[
+  {
+    "number": 3313,
+    "title": "build(deps-dev): bump org.htmlunit:htmlunit from 4.7.0 to 4.15.0",
+    "author": "dependabot",
+    "created_at": "2025-08-19T08:37:44+00:00",
+    "closed_at": "2025-09-02T12:49:30+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3625,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 1224706,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-19T08:38:02+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3313"
+  },
+  {
+    "number": 3312,
+    "title": "build(deps-dev): bump io.projectreactor:reactor-test from 3.8.0-M1 to 3.8.0-M6",
+    "author": "dependabot",
+    "created_at": "2025-08-19T07:55:31+00:00",
+    "closed_at": "2025-09-15T22:03:24+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3876,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 2383673,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-19T07:55:48+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3312"
+  },
+  {
+    "number": 3311,
+    "title": "build(deps): bump org.springframework:spring-context from 6.2.5 to 6.2.10",
+    "author": "dependabot",
+    "created_at": "2025-08-19T07:46:01+00:00",
+    "closed_at": "2025-09-15T22:02:50+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4299,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 2384209,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-19T07:46:19+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3311"
+  },
+  {
+    "number": 3310,
+    "title": "build(deps-dev): bump io.projectreactor:reactor-test from 3.8.0-M1 to 3.8.0-M5",
+    "author": "dependabot",
+    "created_at": "2025-08-05T05:50:14+00:00",
+    "closed_at": "2025-08-19T07:55:33+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3908,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 1217119,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-05T05:50:30+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3310"
+  },
+  {
+    "number": 3309,
+    "title": "build(deps): bump org.springframework:spring-context from 6.2.5 to 6.2.9",
+    "author": "dependabot",
+    "created_at": "2025-08-05T05:41:13+00:00",
+    "closed_at": "2025-08-19T07:46:04+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4530,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 1217091,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-05T05:41:29+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3309"
+  },
+  {
+    "number": 3308,
+    "title": "build(deps-dev): bump org.htmlunit:htmlunit from 4.7.0 to 4.14.0",
+    "author": "dependabot",
+    "created_at": "2025-08-05T05:20:34+00:00",
+    "closed_at": "2025-08-19T08:37:47+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4312,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 1221433,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-08-05T05:20:52+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3308"
+  },
+  {
+    "number": 3300,
+    "title": "feat: add factory enum",
+    "author": "huunghia98er",
+    "created_at": "2025-07-08T03:26:41+00:00",
+    "closed_at": "2025-07-18T09:59:57+00:00",
+    "merged": false,
+    "additions": 526,
+    "deletions": 0,
+    "changed_files": 13,
+    "description_length": 543,
+    "participants_count": 3,
+    "comments_count": 3,
+    "review_duration_seconds": 887596,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-07-08T03:27:04+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-07-08T03:31:55+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-07-08T03:41:47+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-07-08T04:00:56+00:00"
+      },
+      {
+        "author": "ronodhirSoumik",
+        "submitted_at": "2025-07-08T17:57:05+00:00"
+      },
+      {
+        "author": "ronodhirSoumik",
+        "submitted_at": "2025-07-08T18:18:00+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-07-11T10:01:41+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3300"
+  },
+  {
+    "number": 3297,
+    "title": "build(deps-dev): bump io.projectreactor:reactor-test from 3.8.0-M1 to 3.8.0-M4",
+    "author": "dependabot",
+    "created_at": "2025-06-17T00:40:33+00:00",
+    "closed_at": "2025-08-05T05:50:16+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3545,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 4252183,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-06-17T00:40:49+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-06-21T18:45:39+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3297"
+  },
+  {
+    "number": 3296,
+    "title": "build(deps): bump org.springframework:spring-context from 6.2.5 to 6.2.8",
+    "author": "dependabot",
+    "created_at": "2025-06-17T00:29:13+00:00",
+    "closed_at": "2025-08-05T05:41:16+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4861,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 4252323,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-06-17T00:29:30+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-06-21T18:45:23+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3296"
+  },
+  {
+    "number": 3295,
+    "title": "build(deps-dev): bump org.htmlunit:htmlunit from 4.7.0 to 4.13.0",
+    "author": "dependabot",
+    "created_at": "2025-06-09T22:23:05+00:00",
+    "closed_at": "2025-08-05T05:20:37+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4304,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 4863452,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-06-09T22:23:23+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-06-21T18:45:09+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3295"
+  },
+  {
+    "number": 3285,
+    "title": "build(deps): bump org.springframework:spring-context from 6.2.5 to 6.2.7",
+    "author": "dependabot",
+    "created_at": "2025-05-19T22:56:01+00:00",
+    "closed_at": "2025-06-17T00:29:15+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4843,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 2424794,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-19T22:56:19+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3285"
+  },
+  {
+    "number": 3284,
+    "title": "build(deps-dev): bump io.projectreactor:reactor-test from 3.8.0-M1 to 3.8.0-M3",
+    "author": "dependabot",
+    "created_at": "2025-05-19T22:55:32+00:00",
+    "closed_at": "2025-06-17T00:40:35+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3082,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 2425503,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-19T22:55:52+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3284"
+  },
+  {
+    "number": 3283,
+    "title": "build(deps-dev): bump org.htmlunit:htmlunit from 4.7.0 to 4.12.0",
+    "author": "dependabot",
+    "created_at": "2025-05-19T22:55:29+00:00",
+    "closed_at": "2025-06-09T22:23:07+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 4297,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 1812458,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-19T22:55:47+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-05-21T09:08:23+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3283"
+  },
+  {
+    "number": 3277,
+    "title": "build(deps-dev): bump org.htmlunit:htmlunit from 4.7.0 to 4.11.1",
+    "author": "dependabot",
+    "created_at": "2025-05-05T23:08:08+00:00",
+    "closed_at": "2025-05-19T22:55:31+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 3763,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 1208843,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-05T23:08:58+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-05-09T21:46:41+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3277"
+  },
+  {
+    "number": 3276,
+    "title": "build(deps): bump org.springframework:spring-context from 6.2.5 to 6.2.6",
+    "author": "dependabot",
+    "created_at": "2025-05-05T23:07:16+00:00",
+    "closed_at": "2025-05-19T22:56:03+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 5182,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 1208927,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-05T23:07:32+00:00"
+      },
+      {
+        "author": "e5LA",
+        "submitted_at": "2025-05-09T07:06:06+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3276"
+  },
+  {
+    "number": 3275,
+    "title": "Implement DAO Factory pattern [Closed]",
+    "author": "letdtcode",
+    "created_at": "2025-05-04T12:34:26+00:00",
+    "closed_at": "2025-05-17T09:22:44+00:00",
+    "merged": false,
+    "additions": 2225,
+    "deletions": 0,
+    "changed_files": 19,
+    "description_length": 866,
+    "participants_count": 1,
+    "comments_count": 3,
+    "review_duration_seconds": 1111698,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-04T12:34:52+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-04T13:04:03+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-06T17:58:19+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-06T18:19:00+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T07:23:33+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T07:51:14+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T07:52:49+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T08:14:50+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T08:51:04+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-05-10T09:37:27+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3275"
+  },
+  {
+    "number": 3260,
+    "title": "build(deps-dev): bump io.projectreactor:reactor-test from 3.8.0-M1 to 3.8.0-M2",
+    "author": "dependabot",
+    "created_at": "2025-04-21T22:15:49+00:00",
+    "closed_at": "2025-05-19T22:55:34+00:00",
+    "merged": false,
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "description_length": 2636,
+    "participants_count": 0,
+    "comments_count": 3,
+    "review_duration_seconds": 2421585,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-04-21T22:16:06+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3260"
+  },
+  {
+    "number": 3257,
+    "title": "Added a simple analogy for understanding the singleton pattern",
+    "author": "itsmegayu",
+    "created_at": "2025-04-18T04:54:02+00:00",
+    "closed_at": "2025-04-22T18:42:36+00:00",
+    "merged": false,
+    "additions": 4,
+    "deletions": 0,
+    "changed_files": 1,
+    "description_length": 43,
+    "participants_count": 2,
+    "comments_count": 3,
+    "review_duration_seconds": 395314,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-04-18T04:54:21+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3257"
+  },
+  {
+    "number": 3251,
+    "title": "Implement Actor Model pattern #3232Actor model",
+    "author": "ssrijan-007-sys",
+    "created_at": "2025-04-14T17:17:13+00:00",
+    "closed_at": "2025-04-15T09:11:52+00:00",
+    "merged": false,
+    "additions": 402,
+    "deletions": 0,
+    "changed_files": 11,
+    "description_length": 969,
+    "participants_count": 1,
+    "comments_count": 2,
+    "review_duration_seconds": 57279,
+    "reviews": [
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-04-14T17:17:36+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-04-15T08:51:23+00:00"
+      },
+      {
+        "author": "github-actions",
+        "submitted_at": "2025-04-15T08:54:27+00:00"
+      }
+    ],
+    "url": "https://github.com/iluwatar/java-design-patterns/pull/3251"
+  }
+]
