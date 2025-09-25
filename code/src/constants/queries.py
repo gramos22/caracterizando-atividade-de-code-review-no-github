@@ -1,3 +1,19 @@
+SEARCH_REPOSITORIES = """
+query($q:String!, $first:Int!) {
+  search(query: $q, type: REPOSITORY, first: $first) {
+    nodes {
+      ... on Repository {
+        name
+        owner { login }
+        stargazerCount
+        url
+        description
+      }
+    }
+  }
+}
+"""
+
 GET_PULL_REQUESTS = """
 query($owner:String!, $name:String!, $first:Int!) {
   repository(owner:$owner, name:$name) {
