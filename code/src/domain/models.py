@@ -10,6 +10,7 @@ class Repository:
     stargazers: int
     url: str
     description: Optional[str] = None
+    pull_requests_count: int = 0
 
 @dataclass
 class Review:
@@ -30,6 +31,6 @@ class PullRequest:
     description_length: int
     participants_count: int
     comments_count: int
-    review_duration_seconds: int
+    review_duration_hours: float
     reviews: List[Review]
     url: str
