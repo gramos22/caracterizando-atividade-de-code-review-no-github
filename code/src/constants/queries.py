@@ -1,6 +1,6 @@
 SEARCH_REPOSITORIES = """
-query($q:String!, $first:Int!) {
-  search(query: $q, type: REPOSITORY, first: $first) {
+query($q:String!, $first:Int!, $after:String) {
+  search(query: $q, type: REPOSITORY, first: $first, after: $after) {
     nodes {
       ... on Repository {
         name
@@ -8,7 +8,14 @@ query($q:String!, $first:Int!) {
         stargazerCount
         url
         description
+        pullRequests(states: [MERGED, CLOSED]) {
+          totalCount
+        }
       }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
     }
   }
 }
